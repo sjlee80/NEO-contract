@@ -1,0 +1,13 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "hardhat": "^2.18.0"
+  },
+  "dependencies": {
+    "@aave/protocol-v2": "^1.0.1",
+    "@openzeppelin/contracts": "^3.4.0",
+    "@solana/web3.js": "^1.87.1",
+    "@solendprotocol/solend-sdk": "^0.6.47"
+  }
+}
